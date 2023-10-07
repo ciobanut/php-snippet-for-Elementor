@@ -76,6 +76,8 @@ function insert_wp_variables_in_content( $content ) {
 
 			// WooCommerce product
 
+			// Uncomment these if you have woocommerce on your wordpress. But if you don't have it, next portion will generate errors, leave it as a comment.
+
 			// '{{ product_id }}' 				=> $product->get_id(),
 			// '{{ product_name }}' 			=> $product->get_name(),
 			// '{{ product_price }}' 			=> $product->get_price(),

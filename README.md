@@ -1,5 +1,5 @@
 
-This snippet helps you insert wordpress variables into pages or posts created with Elementor for free.
+This snippet helps you to insert wordpress variables into pages or posts created with Elementor free.
 
   
 
@@ -13,7 +13,7 @@ I also recommend using the [Code Snippets plugin](https://wordpress.org/plugins/
 
   
 
-Just copy the code of the snippet.php file and paste it in the functions.php file or in Code Snippets on your website. Save and activate for front-end.
+Just copy the code of the snippet.php file and paste it in the functions.php file or in Code Snippets on your website. Save and activate it for front-end.
 
   
 
@@ -22,6 +22,12 @@ Create a new page or article with Elementor. Add any widget in which you can add
   
 
 Copy the text from the example.txt file and paste it into your Elementor page to see how each element works.
+
+
+**WooCommerce**
+
+
+If you want to use woocommerce placeholders you need to uncomment the corresponding placeholders.
 
   
 
