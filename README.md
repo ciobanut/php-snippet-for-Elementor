@@ -8,3 +8,5 @@ I also recommend using the [Code Snippets plugin](https://wordpress.org/plugins/
 Just copy the code of the snippet.php file and paste it in the functions.php file or in Code Snippets on your website. Save and activate for front-end.
 
 Create a new page or article with Elementor. Add any widget in which you can add text: header, text editor, button,... and paste any placeholder you need. For example: `{{ post_title }}`. Save and see the result.
+
+Copy the text from the example.txt file and paste it into your Elementor page to see how each element works.
